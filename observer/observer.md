@@ -30,3 +30,22 @@
 <br/>
 <h2 align="center">Ejercicios</h2>
 
+<h2 align="center">Ejercicios</h2>
+
+<h3>Lista de Ejercicios</h3>
+
+<ol>
+  <li>
+    <strong>Ejercicio 1:</strong>Crea un codigo de alertas meteorologicas donde varias ciudades 
+están suscritas a un servicio meteorológico. 
+Cada vez que se actualiza el clima, las ciudades
+suscritas reciben una alerta con la nueva información..
+    <br/>
+    <br/>
+    <p> <strong>Posible Solucion:</strong></p>
+    <a href="https://github.com/CarlosMaroRuiz/patronesDise-o/blob/main/observer/meteorologicoo.py" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Ver%20Ejercicio-Ejercicio%201-blue?style=for-the-badge" alt="Ver Ejercicio 1" />
+    </a>
+
+  </li>
+
