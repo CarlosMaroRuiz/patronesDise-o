@@ -23,7 +23,7 @@ class ServicioMeteorologico:#Este sera el observable que notificara
             ciudad.update(mensaje)
 
 
-class Ciudad:#Este sera el obserber que recibira los mensaje
+class Ciudad:#Este sera el observer que recibira los mensaje
     def __init__(self,name):
         self.name = name
     def update(self,mensaje):
