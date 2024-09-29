@@ -56,7 +56,7 @@ el sistema central recibe una alerta con la nueva información.
 El monitoreo de los sensores se realiza de manera concurrente utilizando hilos,
 y el sistema detiene la monitorización automáticamente después de 10 segundos.
  <p> <strong>Posible Solucion:</strong></p>
-    <a href="https://github.com/CarlosMaroRuiz/patronesDise-o/blob/main/observer/sensore.py" style="text-decoration: none;">
+    <a href="https://github.com/CarlosMaroRuiz/patronesDise-o/blob/main/observer/sensores.py" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Ver%20Ejercicio-Ejercicio%202-blue?style=for-the-badge" alt="Ver Ejercicio 1" />
     </a>
   
