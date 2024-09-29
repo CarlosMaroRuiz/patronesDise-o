@@ -57,9 +57,28 @@ El monitoreo de los sensores se realiza de manera concurrente utilizando hilos,
 y el sistema detiene la monitorización automáticamente después de 10 segundos.
  <p> <strong>Posible Solucion:</strong></p>
     <a href="https://github.com/CarlosMaroRuiz/patronesDise-o/blob/main/observer/sensores.py" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Ver%20Ejercicio-Ejercicio%202-blue?style=for-the-badge" alt="Ver Ejercicio 1" />
+      <img src="https://img.shields.io/badge/Ver%20Ejercicio-Ejercicio%202-blue?style=for-the-badge" alt="Ver Ejercicio 2" />
     </a>
   
 </li>
+  <br/>
+
+<li>
+  <strong>Ejercicio 3</strong>Crea un sistema de gestión de tareas donde varios miembros del equipo 
+están suscritos a diferentes tareas de un proyecto. 
+Cada vez que el estado de una tarea cambia, los miembros suscritos 
+reciben una notificación con la nueva información. 
+La asignación de miembros a las tareas se realiza de manera aleatoria, 
+y cada vez que se actualiza el estado de una tarea, todos los miembros suscritos 
+son notificados automaticamente sobre el cambio de estado.
+
+ <p> <strong>Posible Solucion:</strong></p>
+    <a href="https://github.com/CarlosMaroRuiz/patronesDise-o/blob/main/observer/taskTeam.py" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Ver%20Ejercicio-Ejercicio%203-blue?style=for-the-badge" alt="Ver Ejercicio 3" />
+    </a>
+  
+</li>
+    <br/>
+    
 
 </ol>
