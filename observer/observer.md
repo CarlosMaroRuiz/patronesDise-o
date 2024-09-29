@@ -64,7 +64,7 @@ y el sistema detiene la monitorización automáticamente después de 10 segundos
   <br/>
 
 <li>
-  <strong>Ejercicio 3</strong>Crea un sistema de gestión de tareas donde varios miembros del equipo 
+  <strong>Ejercicio 3: </strong>Crea un sistema de gestión de tareas donde varios miembros del equipo 
 están suscritos a diferentes tareas de un proyecto. 
 Cada vez que el estado de una tarea cambia, los miembros suscritos 
 reciben una notificación con la nueva información. 
