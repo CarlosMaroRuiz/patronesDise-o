@@ -15,7 +15,7 @@
 <h3 align="center">Ejemplo básico</h3>
 
 <div align="center">
-  <a href="https://github.com/CarlosMaroRuiz/patronesDise-o/edit/main/observer/Ejemplo.py" style="text-decoration: none;">
+  <a href="https://github.com/CarlosMaroRuiz/patronesDise-o/blob/main/observer_repository/observer/Ejemplo.py" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Ver%20Ejemplo-Ejemplo%20Observer-green?style=for-the-badge" alt="Ejemplo de Observer" />
   </a>
 </div>
