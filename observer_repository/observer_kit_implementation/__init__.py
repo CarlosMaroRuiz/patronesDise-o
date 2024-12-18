@@ -1,0 +1,4 @@
+
+from observer_repository.observer_kit_implementation.events.event_user import NuevoUsuarioEvento
+from observer_repository.observer_kit_implementation.events.event_shop import CompraRealizadaEvento
+from observer_repository.observer_kit_implementation.events.event_system import ActualizacionSistemaEvento

@@ -1,0 +1,3 @@
+from observer_repository.observer_kit_implementation.observers_concrete.log_observer import LogObserver
+from observer_repository.observer_kit_implementation.observers_concrete.email_notifier import EmailNotifier
+from observer_repository.observer_kit_implementation.observers_concrete.custom_observer import CustomObserver
