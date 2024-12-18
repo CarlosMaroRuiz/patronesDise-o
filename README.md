@@ -5,5 +5,5 @@
 
 <h2>Patrones</h2>
 <ul>
-  <li><a href="https://github.com/CarlosMaroRuiz/patronesDise-o/blob/main/observer/observer.md">Observador</a></li>
+  <li><a href="https://github.com/CarlosMaroRuiz/patronesDise-o/blob/main/observer_repository/observer/observer.md">Observador</a></li>
 </ul>
