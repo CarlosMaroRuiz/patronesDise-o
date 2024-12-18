@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/CarlosMaroRuiz/patronesDise-o/edit/main/observer/noticias.py" style="text-decoration: none;">
+  <a href="https://github.com/CarlosMaroRuiz/patronesDise-o/blob/main/observer_repository/observer/noticias.py" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Ver%20Ejemplo-Ejemplo%20Noticias%20Observer-green?style=for-the-badge" alt="Ejemplo noticias de observer" />
   </a>
 </div>
